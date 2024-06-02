@@ -8,3 +8,4 @@ Steps to git
 4. git add <filename> or git add .
 5. git commit -m "message"
 6. git push
+7. you can check status of your git with: git status
